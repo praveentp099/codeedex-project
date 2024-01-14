@@ -1,0 +1,54 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Brown Jacket",
+        "category": "Jackets",
+        "brand": "Brand",
+        "price": 83.97,
+        "color": "Brown",
+        "size": ["S", "M", "L", "XL"],
+        "material": "Cotton",
+        "image": "Brown_Jacket.jpg",
+        "description": "A comfortable cotton Jacket for everyday wear."
+      },
+      {
+        "id": 2,
+        "name": "Brown Suite",
+        "category": "Suites",
+        "brand": "Brand",
+        "price": 120.00,
+        "color": "Brown",
+        "size": ["30", "32", "34", "36"],
+        "material": "Cotton",
+        "image": "brown_suite.jpg",
+        "description": "Classic Suite for a stylish look."
+      },
+      {
+        "id": 3,
+        "name": "Brown Jacket",
+        "category": "Jackets",
+        "brand": "Brand",
+        "price": 83.97,
+        "color": "Brown",
+        "size": ["S", "M", "L", "XL"],
+        "material": "Polyester Blend",
+        "image": "long_brown_jacket.jpg",
+        "description": "A stylish long brown jacket."
+      },
+      {
+        "id": 4,
+        "name": "Yellow Shirt",
+        "category": "Women Shirts",
+        "brand": "Brand",
+        "price": 120.00,
+        "color": "Yellow",
+        "size": ["S", "M", "L", "XL"],
+        "material": "Cotton",
+        "image": "yellow_shirt.jpg",
+        "description": "A stylish yellow shirt for a bold and edgy look."
+      }
+
+    ]
+  }
+  

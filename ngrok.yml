@@ -1,0 +1,7 @@
+authtoken: 2aw2BhHNWjU0zdqYgatWuqd28V8_7pdEpzLoua9UW5sVumajt
+version: 2
+
+tunnels:
+  clothing-store:
+    proto: http
+    addr: 5000
